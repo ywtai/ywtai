@@ -1,4 +1,4 @@
-<div align="center"><img src="github_intro.gif" alt="Intro GIF" width="70%"/></div>
+<div align="center"><img src="github_intro.gif" alt="Intro GIF" width="100%"/></div>
 
 <!--
 **ywtai/ywtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
